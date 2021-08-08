@@ -1,6 +1,6 @@
 # Simple Caculator builded with React Js
 
-Here is a working live demo deployed at <a href="https://peaceful-sands-24474.herokuapp.com/">heroku</a>
+Here is a working <a href="https://ksenianishchenko.github.io/react-js-calculator/">live demo</a>
 
 To run it on your local machine clone into the repo, then type:
 
