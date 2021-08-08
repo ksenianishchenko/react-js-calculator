@@ -9,3 +9,4 @@ npm install && npm start
 
 ```
 
+![Main Page](/images/calculator.png)
